@@ -1,5 +1,5 @@
 # ADM-Homeworks
-This repository contains documents regarding solving the Python assignments on HackerRank website. 
+This repository contains the documents regarding solving the Python assignments on HackerRank website. 
 ## scripts.ipnynb
 You can find all the codes that have been used for each of the assignments. 
 ## stamps
