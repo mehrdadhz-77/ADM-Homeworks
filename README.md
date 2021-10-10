@@ -3,4 +3,4 @@ This repository contains the documents regarding solving the Python assignments 
 ## scripts.ipynb
 You can find all the codes that have been used for each of the assignments. 
 ## stamps
-You can find a .pdf file that contains all the submission I had to solve the problems.
+You can find a .pdf file that contains all the submissions that I had to solve the problems.
